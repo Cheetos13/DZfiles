@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(231, 201, 160);
+
+}
+img{
+    height: 300px;
+    border-radius: 20px;
+}
+p{
+    color: rgb(38, 2, 41);
+    font-size: 24px;
+    border: 5px solid wheat ;
+    border-radius:  10px; 
+    padding: 50px;
+    margin: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 5px 5px rgb(7, 63, 7);
+}
+h1{
+    font-weight: bold;
+    color: rgb(22, 22, 247);
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{text-align: center;
+}
+h4{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
+.a_href{
+    height: 100px;
+    width: 100px;
+    
+}
+div{
+    text-align: center;
+}
